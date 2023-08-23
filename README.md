@@ -46,3 +46,5 @@ Gradients aren't just colors—they're depth, emotion, and visual hierarchy. Wit
 Visit [CSSGradient.io](https://cssgradient.io/) and transform your design with mesmerizing gradients. Your users will love the enhanced visual experience!
 
 ## Embrace the Power of Gradients!
+---
+---
